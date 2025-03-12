@@ -12,7 +12,6 @@ I’m a **Machine Learning Specialist** with a passion for harnessing AI to solv
 - [Movies](https://github.com/sid1326/Movies)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sid1326&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sid1326&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sid1326&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 

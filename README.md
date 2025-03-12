@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Siddhartha%20Kumar%20Panda&fontSize=50&fontAlign=center)
 
 ## 🚀 About Me
-I'm a **Creative Director** and **UI/UX Designer** with a strong background in **web development, print media, and machine learning**. My passion lies in designing intuitive and beautiful solutions, especially in **machine learning applications**. I have experience in **image processing, generative AI, and fuel demand prediction models**. 🚀
+I’m a **Machine Learning Specialist** with a passion for harnessing AI to solve complex challenges. With experience in image processing and generative AI, I focus on developing intelligent solutions that push the boundaries of what's possible with modern technology. From crafting advanced algorithms to implementing practical sql, I bring technical expertise and innovative thinking to every project. Whether it's building systems for visual data analysis or exploring the creative potential of generative models, I’m dedicated to delivering impactful, AI-powered results. Let’s create something extraordinary together.. 
 
 ## 🔥 Recent Contributions
 ### Contributed to:

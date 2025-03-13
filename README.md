@@ -1,4 +1,4 @@
-# Hi there, I'm Siddhartha Kumar Panda! 
+# Hi there !
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Siddhartha%20Kumar%20Panda&fontSize=50&fontAlign=center)
 

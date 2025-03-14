@@ -16,6 +16,9 @@ I’m a **Machine Learning Specialist** with a passion for harnessing AI to solv
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sid1326&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sid1326&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sid1326&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## 💊 Technologies & Skills
 ### **UI/UX Design**
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)

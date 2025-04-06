@@ -45,7 +45,7 @@ I’m a **Machine Learning Specialist** with a passion for harnessing AI to solv
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 👻 Connect With Me
-- LinkedIn: [Siddhartha Kumar Panda](https://www.linkedin.com/in/sid1326)
+- LinkedIn: [Siddhartha Kumar Panda]((https://www.linkedin.com/in/siddhartha-kumar-panda/))
 - Twitter: [@sid_1326](https://twitter.com/sid_1326)
 
 ![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
